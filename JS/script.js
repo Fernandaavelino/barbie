@@ -413,20 +413,20 @@ function clickReiniciar() {
 
 }
 
-function clickBarbie(pokemonSelecionado) {
+function clickBarbie(personagemSelecionado) {
     let jogadorSelecionado = null;
 
-    if (pokemonSelecionado == 'barbie_borboleta') {
+    if (personagemSelecionado == 'barbie_borboleta') {
         jogadorSelecionado = barbie_borboleta;
-    } else if (pokemonSelecionado == 'barbie_cachorro') {
+    } else if (personagemSelecionado == 'barbie_cachorro') {
         jogadorSelecionado = barbie_cachorro;
-    } else if (pokemonSelecionado == 'barbie_casa') {
+    } else if (personagemSelecionado == 'barbie_casa') {
         jogadorSelecionado = barbie_casa;
-    } else if (pokemonSelecionado == 'barbie_esccola') {
+    } else if (personagemSelecionado == 'barbie_esccola') {
         jogadorSelecionado = barbie_esccola;
-    } else if (pokemonSelecionado == 'barbie_pavao') {
+    } else if (personagemSelecionado == 'barbie_pavao') {
         jogadorSelecionado = barbie_pavao;
-    } else if (pokemonSelecionado == 'barbie_sereia') {
+    } else if (personagemSelecionado == 'barbie_sereia') {
         jogadorSelecionado = barbie_sereia;
     }
 
