@@ -17,12 +17,12 @@ let jogador1 = null;
 let jogador2 = null;
 
 // Personagens
-let barbie_borboleta = "url('../css/barbie_borboleta.png')";
-let barbie_cachorro = "url('../css/barbie_cachorro.png')";
-let barbie_casa = "url('../css/barbie_casa.png')";
-let barbie_esccola = "url('../css/barbie_esccola.png')";
-let barbie_pavao = "url('../css/barbie_pavao.png')";
-let barbie_sereia = "url('../css/barbie_sereia.png')";
+let barbie_borboleta = "url('img/barbie_borboleta.png')";
+let barbie_cachorro = "url('img/barbie_cachorro.png')";
+let barbie_casa = "url('img/barbie_casa.png')";
+let barbie_esccola = "url('img/barbie_esccola.png')";
+let barbie_pavao = "url('img/barbie_pavao.png')";
+let barbie_sereia = "url('img/barbie_sereia.png')";
 
 
 // Atribui imagens para escolha do personage
