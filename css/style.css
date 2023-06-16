@@ -13,7 +13,7 @@ main {
     background-size: 100% 100%;
     background-repeat: no-repeat;
     object-fit: cover;
-    
+
 }
 
 .containerPersonagens div input {
@@ -28,11 +28,13 @@ main {
     background-repeat: no-repeat;
     object-fit: cover;
 }
+
 body {
     background-image: url('../img/fundo_2.jpg');
     background-repeat: no-repeat;
     background-size: 100%;
 }
+
 h1 {
     font-family: Lucida Handwriting;
     font-size: 37px;
