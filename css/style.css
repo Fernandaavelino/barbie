@@ -30,7 +30,7 @@ main {
 }
 
 body {
-    background-image: url('../img/fundo_2.jpg');
+    background-image: url("../img/fundo_2.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
 }
